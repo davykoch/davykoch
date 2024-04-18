@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on becoming a developer and hence I am a software engineering student at @alx Africa<br>👯 I’m looking to collaborate on things about software engineering<br>🤝 I’m looking for help with becoming an all-round software engineer, i.e coding and problem solving<br>🌱 I’m currently learning several programming languages including C, Python, R
-
+# 💻 About Me:
+🌱 Aspiring software engineer | Student @ALXAfrica
+🚀 Working towards becoming an all-round developer
+👯 Open to collaborations on software engineering projects
+💡 Seeking guidance on coding and problem-solving skills
+📚 Currently diving into C, Python, R and more
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daviskoech24) 
